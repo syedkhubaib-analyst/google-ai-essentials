@@ -20,4 +20,4 @@ Business analysis is shifting toward "techno-functional" BA roles where understa
 The DA-to-BA transition itself is an example of "staying ahead of the curve", layering AI/automation literacy and process-analysis skills on top of a data foundation (Excel, SQL, Power BI) to stay competitive as AI increasingly automates routine reporting and dashboarding tasks.
 
 **For Automation:**
-This module is the mindset layer: continuously scanning existing manual workflows (data entry, report generation, status updates, approvals) for automation candidates, and building a habit of documenting these opportunities, the same practice used when maintaining a BA project portfolio and a public GitHub learning record.
+This module is the mindset layer: continuously scanning existing manual workflows (data entry, report generation, status updates, approvals) for automation candidates, and building a habit of documenting these opportunities.

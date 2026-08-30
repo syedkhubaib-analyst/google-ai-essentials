@@ -10,7 +10,7 @@ The specialization consists of **5 modules**, each building toward a practical, 
 
 - **Platform:** Coursera
 - **Provider:** Google
-- **Credential:** Google AI Essentials Certificate
+- **Credential:** [View Certificate](https://www.coursera.org/account/accomplishments/specialization/21P9DV092PDS)
 
 ---
 

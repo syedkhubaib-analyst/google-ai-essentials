@@ -4,7 +4,7 @@ This repository contains my summaries from the **Google AI Essentials** speciali
 
 ---
 
-## About the Specialization
+## 📌 About the Specialization
 
 The specialization consists of **5 modules**, each building toward a practical, workplace-ready understanding of AI, not just the theory, but how to apply it to everyday tasks, decision-making, and process improvement.
 
@@ -14,7 +14,7 @@ The specialization consists of **5 modules**, each building toward a practical, 
 
 ---
 
-## What You'll Find in This Repository
+## 📚 What You'll Find in This Repository
 
 Each folder contains:
 
@@ -40,7 +40,7 @@ Each folder contains:
 - How to recognize bias, privacy risk, and the limits of AI output, and build responsible human-in-the-loop checkpoints
 - How to keep building AI fluency as tools evolve, and use it as a career differentiator
 
-## Why This Repo Matters for Business Analyst / Data Analyst Work
+## 📌 Why This Repo Matters for Business Analyst / Data Analyst Work
 
 AI literacy is becoming a baseline expectation for both **Business Analyst** and **Data Analyst** roles, not as a separate technical skill, but as a layer on top of existing requirements-writing, data-analysis, and process-mapping work. Each module summary in this repo explicitly connects the concept back to:
 

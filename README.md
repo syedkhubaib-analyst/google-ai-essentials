@@ -8,9 +8,9 @@ This repository contains my summaries from the **Google AI Essentials** speciali
 
 The specialization consists of **5 modules**, each building toward a practical, workplace-ready understanding of AI, not just the theory, but how to apply it to everyday tasks, decision-making, and process improvement.
 
-**Platform:** Coursera
-**Provider:** Google
-**Credential:** Google AI Essentials Certificate
+- **Platform:** Coursera
+- **Provider:** Google
+- **Credential:** Google AI Essentials Certificate
 
 ---
 
@@ -54,7 +54,7 @@ AI literacy is becoming a baseline expectation for both **Business Analyst** and
 
 If you find this helpful, feel free to star 🌟 the repo and connect with me:
 
-- 💼 [LinkedIn - Syed](https://www.linkedin.com/in/your-profile/)
+- 💼 [LinkedIn - Syed](https://www.linkedin.com/in/syed-khubaib-alam/)
 
 ---
 

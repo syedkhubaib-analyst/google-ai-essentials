@@ -54,7 +54,7 @@ AI literacy is becoming a baseline expectation for both **Business Analyst** and
 
 If you find this helpful, feel free to star 🌟 the repo and connect with me:
 
-- 💼 [LinkedIn - Syed](https://www.linkedin.com/in/syed-khubaib-alam/)
+- 💼 [LinkedIn - Syed Khubaib Alam](https://www.linkedin.com/in/syed-khubaib-alam/)
 
 ---
 
